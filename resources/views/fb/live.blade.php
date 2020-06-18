@@ -80,7 +80,7 @@
                 <h1 class="headline">より詳細に知りたい方！</h1>
                 <h1 class="body-h1"><i class="fas fa-check-circle"></i> アプリDL後アプリ内をCHECK</h1>
                 <div class="button">
-                    <a href="./dl" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
+                    <a href="./dl" target="_blank" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
                 <br>
                 <div class="button-p">
