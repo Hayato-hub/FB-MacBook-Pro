@@ -20,6 +20,7 @@
           'https://connect.facebook.net/en_US/fbevents.js');
           fbq('init', '1732676363539028');
           fbq('track', 'PageView');
+          fbq('track', 'ViewContent');
         </script>
         <noscript><img height="1" width="1" style="display:none"
           src="https://www.facebook.com/tr?id=1732676363539028&ev=PageView&noscript=1"
