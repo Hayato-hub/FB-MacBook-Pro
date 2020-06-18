@@ -56,7 +56,7 @@
                 <br>
                 
                 <!--ここからまとめ-->
-                <h1 class="headline">「ココが他と違う」- 特徴まとめ</h1>
+                <h1 class="headline">ココが他と違う！</h1>
                 <h1 class="body-h1"><i class="fas fa-check-circle"></i> 登録せずに観るだけOK</h1>
                 <div class="body-p">
                     <p>アプリ内にある動画閲覧に登録不要。しかし、女の子とマッチングしたいなら簡単プロフィールは作成する必要あり。ただこの場合でも仮名・匿名利用OK</p>
@@ -77,10 +77,10 @@
                 <br>
                 
                 <!--ボタン-->
-                <h1 class="headline">より詳細に知りたい方 - 公式ページ紹介</h1>
+                <h1 class="headline">より詳細に知りたい方！</h1>
                 <h1 class="body-h1"><i class="fas fa-check-circle"></i> アプリDL後アプリ内をCHECK</h1>
                 <div class="button">
-                    <a href="./dl" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreで詳細をみる <i class="fas fa-external-link-alt"></i></a>
+                    <a href="./dl" class="btn-square"><i class="fab fa-apple"></i> 公式AppStoreへ移動 <i class="fas fa-external-link-alt"></i></a>
                 </div>
                 <br>
                 <div class="button-p">

@@ -7,8 +7,8 @@ img {
 }
 
 .contents {
-    width: 35%;
-    padding-left: 3rem;
+    width: 50%;
+    padding-left: 2.5rem;
 }
 
 .big-body {
@@ -101,7 +101,7 @@ header h1 {
     color: #555555;
     font-size: 0.7rem;
     margin-top: -1.5rem;
-    text-align: center;
+    text-align: left;
 }
 
 .body-p-span {
