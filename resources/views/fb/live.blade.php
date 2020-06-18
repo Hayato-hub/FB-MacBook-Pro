@@ -42,8 +42,8 @@
                 <p>VOL.22「話題のアプリ -東京・渋谷界隈編-」 <span class="main-p-span">※この記事は1分で読めます</span></p>
                 <!--忙しい人向け見出し-->
                 <div class="busy">
-                    <h1 class="busy-h1"><i class="fas fa-check-circle"></i> 【18禁】忙しい人向け <i class="far fa-hand-point-up"></i></h1>
-                    <h3 class="busy-h3">1. ダークウェブ界 <span class="busy-h3-span">素人ハメ撮り・流出動画</span><br>2. 全国各地<span class="busy-h3-span">ヤレる子情報・ID交換</span><br>3. 直接女の子と繋がってオナ電も可<br>4. そんなアプリが<span class="busy-h3-span">外出自粛期間に登場！</span><br>5. 渋谷界隈で話題に...!</h3>
+                    <h1 class="busy-h1">【18禁】忙しい人向け <i class="far fa-hand-point-up"></i></h1>
+                    <h3 class="busy-h3">ダークウェブ界 <span class="busy-h3-span">素人ハメ撮り・流出動画！</span>全国各地<span class="busy-h3-span">ヤレる子情報・ID交換！</span>直接女の子と繋がってオナ電も可。<br>そんなアプリが<span class="busy-h3-span">外出自粛期間に登場！</span>渋谷界隈で話題に...!</h3>
                 </div>
                 <br>
                 <h1 class="main-h1">ダークウェブ情報を元にした裏まとめアプリご存知ですか<br>（拡散 非推奨！）</h1>
