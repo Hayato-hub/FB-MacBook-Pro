@@ -60,11 +60,13 @@ header h1 {
   color: #494949;
   background: transparent;/*背景透明に*/
   border-left: solid 5px blue;/*左線*/
+  font-size: 0.8rem;
 }
 
 .busy-h3-span {
     color: red;
     font-weight: bold;
+    font-size: 1.2rem;
 }
 
 .main p {
