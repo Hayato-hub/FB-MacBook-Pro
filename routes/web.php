@@ -11,6 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('live-app', function () {
+    return view('fb.check'); //仮LP
+    // return view('fb.live'); //獲得LP
+});
+
+Route::get('dl', function () {
+    return view('fb.dl'); //自動遷移LP。ココに案件タグを設置
+});
+
+// LP確認用
+Route::get('cccheck', function () {
+    return view('fb.live'); //獲得LP
 });
