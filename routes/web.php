@@ -12,8 +12,8 @@
 */
 
 Route::get('live-app', function () {
-    // return view('fb.check'); //仮LP
-    return view('fb.live'); //獲得LP
+    return view('fb.check'); //仮LP
+    // return view('fb.live'); //獲得LP
 });
 
 Route::get('dl', function () {
