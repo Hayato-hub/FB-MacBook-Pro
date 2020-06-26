@@ -1,12 +1,17 @@
 body {
-    padding-left: 3rem;
+    /*padding-left: 3rem;*/
     font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
     font-weight: bold;
     font-size: 0.8rem;
+    text-align: center;
 }
 
-.button {
-    text-align: left;
+/*.button {*/
+/*    text-align: left;*/
+/*}*/
+
+img {
+    width: 90%;
 }
 
 .btn-square {
