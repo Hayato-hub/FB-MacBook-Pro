@@ -12,8 +12,8 @@
 */
 
 Route::get('job', function () {
-    return view('fb.check'); //仮LP
-    // return view('fb.job'); //獲得用LP
+    // return view('fb.check'); //仮LP
+    return view('fb.job'); //獲得用LP
 });
 
 //イククル-DL
