@@ -13,7 +13,8 @@
 
 Route::get('job', function () {
     return view('fb.check'); //仮LP
-    // return view('fb.job'); //獲得用LP
+    // return view('fb.rank'); //新：獲得LP
+    // return view('fb.job'); //旧：獲得用LP
 });
 
 //イククル-DL
@@ -28,7 +29,8 @@ Route::get('install', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.job'); //獲得LP
+    // return view('fb.job'); //旧：獲得LP
+    return view('fb.rank'); //新：獲得LP
 });
 
 // //男性向け出会えない系 - 獲得用
