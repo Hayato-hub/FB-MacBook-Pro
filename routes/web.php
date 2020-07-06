@@ -12,8 +12,8 @@
 */
 
 Route::get('job', function () {
-    return view('fb.check'); //仮LP
-    // return view('fb.rank'); //新：獲得LP
+    // return view('fb.check'); //仮LP
+    return view('fb.rank'); //新：獲得LP
     // return view('fb.job'); //旧：獲得用LP
 });
 
