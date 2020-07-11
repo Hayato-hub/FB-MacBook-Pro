@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('match', function () {
-    // return view('fb.check'); //確認用LP
-    return view('fb.match'); //獲得LP(1)
+    return view('fb.check'); //確認用LP
+    // return view('fb.match'); //獲得LP(1)
 });
 
 // LP確認用
