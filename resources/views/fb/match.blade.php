@@ -15,9 +15,10 @@
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>Tinderはオワコン！今はOmiaiがえぐいw<br>割とガチでヤレる女しかおらん！てか無料キャンペーンしてるしデカいwww</span></h1>
+                <h1><span>最人気マッチングアプリ<br><span class="body-top-span2">Omiaiが今なら一年分無料!?</span><br>総額 5万円超えの特典はコチラから！</span></h1>
                 <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
                 <p>アプリ内IDで検索すればプロフィール閲覧できるでー</p>
+                <h1><span>Tinderはオワコン！今はOmiaiがえぐいw<br>割とガチでヤレる女しかおらん！てか無料キャンペーンしてるしデカいwww</span></h1>
             </div>
             
             <div class="big-body-main">
@@ -51,9 +52,9 @@
                     <img src="{{ asset('image/uraLive_5.jpg') }}">
                     <br>
                     <br>
-                    <h3>リンク切れになってたらスマン！！まだリンク生きてたら削除前に急げよ！！！</h3>
+                    <h3>リンク切れになってたらスマン！！まだリンク生きてたら終了前に急げよ！！！</h3>
                     <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>matching/omiai</p></span></p></a>
-                    <h3>期間限定の無料キャンペーンやってるっぽい！</h3>
+                    <h3>無料キャンペーンはコチラから！</h3>
                     <br>
                     <p>最後にちょっと宣伝！Twitterで裏系・エロ情報発信してこうと思うから、気になるやつはフォローしてやー！@adult_info_</p>
                     <br>
@@ -62,13 +63,13 @@
                 </div>
             </div>
             
-            <div class="ad">
-                <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>
-                <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_018.jpg"></a>
-                <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>
-                <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>
-            </div>
-            <br>
+            <!--<div class="ad">-->
+            <!--    <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>-->
+            <!--    <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_018.jpg"></a>-->
+            <!--    <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>-->
+            <!--    <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>-->
+            <!--</div>-->
+            <!--<br>-->
         </div>
         <footer>
             <p>激ヤバ話題まとめ@5ch</p>
