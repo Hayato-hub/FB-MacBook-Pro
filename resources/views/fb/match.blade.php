@@ -17,6 +17,7 @@
             <div class="body-top">
                 <h1><span>最人気マッチングアプリ<br><span class="body-top-span2">Omiaiが今なら一年分無料!?</span><br>総額 5万円超えの特典はコチラから！</span></h1>
                 <a href="https://a-trade.jp/redirect/fatey-multi?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
                 <p>アプリ内IDで検索すればプロフィール閲覧できるでー</p>
                 <h1><span>Tinderはオワコン！今はOmiaiがえぐいw<br>割とガチでヤレる女しかおらん！てか無料キャンペーンしてるしデカいwww</span></h1>
             </div>
@@ -53,7 +54,8 @@
                     <br>
                     <br>
                     <h3>リンク切れになってたらスマン！！まだリンク生きてたら終了前に急げよ！！！</h3>
-                    <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>matching/omiai</p></span></p></a>
+                    <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                    <!--<a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><p><span>https://apps.apple.com/jp/app/free/<br>matching/omiai</p></span></p></a>-->
                     <h3>無料キャンペーンはコチラから！</h3>
                     <br>
                     <p>最後にちょっと宣伝！Twitterで裏系・エロ情報発信してこうと思うから、気になるやつはフォローしてやー！@adult_info_</p>
