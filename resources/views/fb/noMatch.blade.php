@@ -68,14 +68,14 @@
                 </div>
             </div>
             
-            <div class="ad">
-                <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>
+            <!--<div class="ad">-->
+            <!--    <h1><span>【PR】時給1000円以上! アダルトゲームのテスター募集!</span></h1>-->
                 <!--<a href="https://a-trade.jp/redirect/nijikano?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/niji_600x500_001.jpg"></a>-->
-                <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_009.jpg" alt=""></a>
-                <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>
-                <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>
-            </div>
-            <br>
+            <!--    <a href="https://a-trade.jp/redirect/anahiro?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/ana_600x500_009.jpg" alt=""></a>-->
+            <!--    <p><span><i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i> <i class="far fa-hand-point-up"></i></span></p>-->
+            <!--    <p><span>まず普通にユーザー登録して詳細を確認せよ！</span></p>-->
+            <!--</div>-->
+            <!--<br>-->
         </div>
         <footer>
             <p>激ヤバ話題まとめ@5ch</p>
