@@ -12,8 +12,8 @@
         <div class="big-body">
             <img src="{{ asset('image/adult_1.JPG') }}"></img>
             <!--<img src="{{ asset('image/adult_110.png') }}" class="s-small"></img>-->
-            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl_top"></img></a>
             <div class="center">
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl_top"></img></a>
                 <p>※リンク切れの場合は募集を停止しております。</p>
             </div>
             <div class="line"></div>
@@ -31,8 +31,8 @@
                 <h1>期間限定の新規男性ユーザー募集!!<br>大人な出会いを見逃すな！</h1>
                 <img src="{{ asset('image/adult_99.jpg') }}" class="small"></img>
             </div>
-            <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}"></img></a>
             <div class="center">
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}"></img></a>
                 <p>※リンク切れの場合は募集を停止しております。</p>
             </div>
             <br>
