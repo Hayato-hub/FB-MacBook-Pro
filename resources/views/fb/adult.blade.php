@@ -32,7 +32,7 @@
                 <img src="{{ asset('image/adult_99.jpg') }}" class="small"></img>
             </div>
             <div class="center">
-                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}"></img></a>
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl"></img></a>
                 <p>※リンク切れの場合は募集を停止しております。</p>
             </div>
             <br>
