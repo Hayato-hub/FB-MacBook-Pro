@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>期間限定募集！秘密な出会いを完全サポート！</title>
+        <title>期間限定！秘密な出会いを完全サポート！</title>
         <link href="{{ secure_asset('css/adult.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
