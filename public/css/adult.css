@@ -10,6 +10,8 @@ body {
 
 img {
     width: 100%;
+    padding-right: 0.7em;
+    padding-left: 0.7em;
 }
 
 .s-small {
@@ -55,5 +57,4 @@ h1 {
 
 .footer p {
     text-align: center;
-    padding-bottom: 1em;
 }
