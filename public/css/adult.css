@@ -29,7 +29,7 @@ img {
 p {
     font-weight: bold;
     color: grey;
-    padding-left: 1.5em;
+    font-size: 0.8em;
     margin-top: -0.1em;
 }
 
@@ -40,6 +40,6 @@ p {
 
 h1 {
     color: #FF6699;
-    font-size: 1.5em;
+    font-size: 1em;
     border-bottom: 3px solid #FF6699;
 }
