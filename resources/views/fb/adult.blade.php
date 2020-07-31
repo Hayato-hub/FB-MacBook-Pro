@@ -13,7 +13,8 @@
             <img src="{{ asset('image/adult_1.JPG') }}"></img>
             <!--<img src="{{ asset('image/adult_110.png') }}" class="s-small"></img>-->
             <div class="center">
-                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl_top"></img></a>
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8219&site_id=27669" target="_blank" class="btn-square-shadow dl_top"><i class="fab fa-apple"></i> 公式AppleStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <!--<a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl_top"></img></a>-->
                 <!--<a href="https://preaf.jp/pa.do?s=v04031&o=47142&guid=ON" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl_top"></img></a>-->
                 <p>※リンク切れの場合は募集を停止しております。</p>
             </div>
@@ -33,7 +34,8 @@
                 <img src="{{ asset('image/adult_99.jpg') }}" class="small"></img>
             </div>
             <div class="center">
-                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl"></img></a>
+                <a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8219&site_id=27669" target="_blank" class="btn-square-shadow dl"><i class="fab fa-apple"></i> 公式AppleStoreはコチラ <i class="fas fa-arrow-circle-right"></i></a>
+                <!--<a href="https://www.gamefeat.net/webapi/v1/reportClick?ad_id=8126&site_id=27669" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl"></img></a>-->
                 <!--<a href="https://preaf.jp/pa.do?s=v04031&o=47142&guid=ON" target="_blank"><img src="{{ asset('image/noRank_dl.jpg') }}" class="dl"></img></a>-->
                 <p>※リンク切れの場合は募集を停止しております。</p>
             </div>
