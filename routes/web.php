@@ -12,7 +12,7 @@
 */
 
 // LP獲得用
-Route::get('match', function () {
+Route::get('app', function () {
     return view('fb.check'); //確認用LP
     // return view('fb.noMatch'); //獲得LP(2)
     
