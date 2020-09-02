@@ -1,0 +1,315 @@
+body {
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+header img {
+    width: 100%;
+}
+
+.box26 {
+    position: relative;
+    margin: 0.7em 0;
+    padding: 0.5em 0;
+    border: solid 3px #6600CC;
+    border-radius: 8px;
+}
+
+.box26 .box-title {
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #6600CC;
+    font-weight: bold;
+}
+
+.box26 li {
+    margin-left: -0.5em; 
+    padding: 0;
+    font-weight: bold;
+}
+
+.box26 p {
+    font-weight: bold;
+    padding: 0 1em;
+    text-align: left;
+}
+
+.box26-span {
+    color: red;
+    border-bottom: solid 2px red;
+}
+
+/*ボタン*/
+.btn-square-shadow {
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  background: red;/*ボタン色*/
+  color: #FFF;
+  border-bottom: solid 4px #627295;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.button {
+    text-align: center;
+}
+
+.button img {
+    width: 100%;
+}
+
+.button p {
+    font-weight: bold;
+    font-size: 0.7em;
+    margin-top: -0.01em;
+}
+
+.result h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+  margin-bottom: -0.1em;
+}
+
+.result h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.result img {
+    width: 100%;
+}
+
+.result2 {
+    margin-top: -1em;
+}
+
+.result2 h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+  margin-bottom: -0.1em;
+}
+
+.result2 h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.result2 img {
+    width: 100%;
+}
+
+.pay {
+    margin-top: -1em;
+}
+
+.pay h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+  margin-bottom: -0.1em;
+}
+
+.pay h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.pay img {
+    width: 100%;
+    margin-top: 0.5em;
+}
+
+.box30 {
+    margin: 1.5em 0;
+    background: #f1f1f1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.22);
+}
+
+.box30 .box-title {
+    font-size: 1.2em;
+    background: #5fc2f5;
+    padding: 4px;
+    text-align: center;
+    color: #FFF;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+
+.box30 p {
+    padding: 15px 20px;
+    margin: 0;
+    font-weight: bold;
+}
+
+.box30-span {
+    color: #5fc2f5;
+    border-bottom: solid 2px #5fc2f5;
+}
+
+.manga img {
+    width: 100%;
+}
+
+.job h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: -0.1em;
+  margin-bottom: -0.1em;
+}
+
+.job h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.job img {
+    width: 100%;
+}
+
+.relieve h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+}
+
+.relieve h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.relieve img {
+    width: 100%;
+    margin-top: -1em;
+}
+
+.compare h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+}
+
+.compare h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.compare img {
+    width: 100%;
+    margin-top: -1em;
+}
+
+.use h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+}
+
+.use h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.use .box26 {
+    margin-top: -0.1em;
+}
+
+.use p {
+    text-align: center;
+    color: red;
+}
+
+.use-span {
+    border-bottom: solid 2px red;
+}
+
+.movie h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+}
+
+.movie h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+.movie p {
+    font-weight: bold;
+    padding-left: 0.5em;
+}
+
+.close h3 {
+  color: white;/*文字色*/
+  padding: 0.5em;/*文字周りの余白*/
+  display: inline-block;/*おまじない*/
+  line-height: 1.3;/*行高*/
+  background: #6600CC;/*背景色*/
+  vertical-align: middle;
+  border-radius: 25px 0px 0px 25px;/*左側の角を丸く*/
+  margin-top: 1.5em;
+}
+
+.close h3:before {
+  content: '●';
+  color: white;
+  margin-right: 8px;
+}
+
+
+
+
+
+

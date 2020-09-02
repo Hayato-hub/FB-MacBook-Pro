@@ -23,8 +23,9 @@ Route::get('app', function () {
 
 // LP確認用
 Route::get('cccheck', function () {
-    return view('fb.noMatch'); //獲得LP(2)
+    return view('fb.mm'); //獲得LP(4)
     
+    // return view('fb.noMatch'); //獲得LP(2)
     // return view('fb.adult'); //獲得LP(3)
     // return view('fb.noMatchRanking'); //獲得LP(3)
     // return view('fb.match'); //獲得LP(1)
@@ -32,5 +33,5 @@ Route::get('cccheck', function () {
 
 // LP確認用 - sub
 Route::get('cccheck2', function () {
-    return view('fb.noMatch'); //獲得LP(2)
+    return view('fb.mm'); //獲得LP(4)
 });
