@@ -15,25 +15,25 @@
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>AVに飽きた人必見!!!<br>ガチ素人の『裏配信』が今熱い！</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
-                <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                <h1><span>『裏垢男子』必見!!!<br>出会いを目的とした『裏掲示板』が今熱い！</span></h1>
+                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
+                <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
+                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>インスタ・ニコ生・TikTokで垢BANされた裏垢女子多数！<br>刺激強すぎる裏配信の実態とは..!?</h1>
-                    <p>2020年09月14日20:03</p>
+                    <h1>インスタ・Twitter・TikTokで垢BANされた裏垢女子多数！<br>出会いを目的とした裏掲示板の実態とは..!?</h1>
+                    <p>2020年09月15日20:03</p>
                 </div>
                 
                 <div class="body-main-2">
-                    <img src="{{ asset('image/uraLive_2.JPG') }}">
+                    <img src="{{ asset('image/lp_ad_2.JPG') }}">
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>指入れ・おもちゃ・見せ合い・鑑賞 etc...<br>ガチ裏垢女子が見つかるライブ配信</h3>
-                    <p>有名SNSを垢BANされただけあって、刺激強い配信が多数。Pornhubやdmm(Fanza)が飽きた人、リアルな素人のエロ動画を見たい人は必見。<br><br>オナニーだけでも種類は豊富。指入れやクリトリス、おもちゃプレイは勿論、個人配信で繋がれば<span class="red">あなたがオナニー指示を出してもOK</span>。</p>
+                    <h3>オナ電、セフレ、援交、パパ活 etc...<br>ガチ裏垢女子が見つかる裏掲示板</h3>
+                    <p>有名SNSを垢BANされただけあって、刺激強い裏垢女子が多数。特に<span class="red">20代後半~30代半ばの人妻・お姉さんが多数</span>。<br><br>割り切りセックスは勿論、長期的な関係やオナ電募集など掲示板投稿は多岐に渡ります。</p>
                     <img src="{{ asset('image/uraLive_3.JPG') }}">
                     <br>
                     <br>
