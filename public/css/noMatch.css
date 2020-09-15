@@ -152,6 +152,10 @@ footer p {
   margin: 0 auto;
 }
 
+.center p {
+    text-align: left;
+}
+
 .body-main-3 .red {
   color: red;
   font-weight: bold;
@@ -160,4 +164,5 @@ footer p {
 
 .line2 {
     border-bottom: 2px solid grey;
+    padding-bottom: 2em;
 }
