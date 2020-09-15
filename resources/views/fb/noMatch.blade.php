@@ -15,10 +15,10 @@
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>『裏垢男子』必見!!!<br>出会いを目的とした『裏掲示板』が今熱い！</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
+                <h1><span>『裏垢男子』必見!!!<br>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
+                <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
                 <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
+                <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
             </div>
             
             <div class="big-body-main">
@@ -32,30 +32,33 @@
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>オナ電、セフレ、援交、パパ活 etc...<br>ガチ裏垢女子が見つかる裏掲示板</h3>
-                    <p>有名SNSを垢BANされただけあって、刺激強い裏垢女子が多数。特に<span class="red">20代後半~30代半ばの人妻・お姉さんが多数</span>。<br><br>割り切りセックスは勿論、長期的な関係やオナ電募集など掲示板投稿は多岐に渡ります。</p>
-                    <img src="{{ asset('image/uraLive_3.JPG') }}">
+                    <h3>オナ電、セフレ、援交、パパ活 etc... ガチ裏垢女子が見つかる裏掲示板</h3>
+                    <p>某SNSを垢BANされて流れてきた裏垢女子が多数。特に<span class="red">10代後半~20代半ばの若者が多数</span>。<br><br>割り切りセックスは勿論、長期的な関係やオナ電募集など掲示板投稿は多岐に渡ります。</p>
+                    <img src="{{ asset('image/lp_ad_3.JPG') }}">
                     <br>
                     <br>
-                    <h3>性欲強め女子多数なので<br>SNS交換して実際にオフパコするケースも..!?</h3>
-                    <p>中にはTwitterIDなどを公開してるライバーさんもおり、<span class="red">定期的にオフ会を開催</span>しているケースもあります。<br><br>オフ会でなにをするかは言わずもがな。</p>
-                    <br>
-                    <h3>ライブ配信を保存してると...<br>データフォルダに要注意！</h3>
-                    <p>アーカイブ機能は無いので、貴重なライブ配信は保存して見逃すな。</p>
-                    <img src="{{ asset('image/uraLive_4.JPG') }}">
+                    <h3>連絡用TwitterIDが載っていて、即アポも可能..!?</h3>
+                    <p>基本的には掲示板にある気になる投稿を見てまずはアプリ内で会話する形だけど、直接SNSでやり取りするのもOK。<br><br>中にはTwitterIDなどを常に公開してる女性もおり、<span class="red">定期的にオフ会を開催</span>しているケースも。オフ会でなにをするかは言わずもがな。</p>
+                    <img src="{{ asset('image/uraLive_1.JPG') }}">
                     <br>
                     <br>
-                    <h3>運が良ければ<br>ガチ素人の生ハメ配信観れるかも..!?</h3>
-                    <p>稀にある生ハメ配信。この配信はなんと<span class="red">同時視聴者数6000人以上</span>を記録。</p>
-                    <img src="{{ asset('image/uraLive_5.jpg') }}">
+                    <h3>データフォルダに要注意..!?<br>利用男性によるハメ撮り集！</h3>
+                    <p>男性掲示板には利用ユーザーから結果の報告も。<br>※盗撮は犯罪ですので、ちゃんと許可を得てからハメ撮りしましょう。</p>
+                    <img src="{{ asset('image/lp_ad_4.JPG') }}">
+                    <br>
+                    <br>
+                    <h3>運が良ければ<br>欅坂46似の清楚系とも出会えるかも..!?</h3>
+                    <p>基本的には性欲強めなギャルやお姉さん系が多いが、中には清楚系も。清楚系は競争率高めなので、見つけたらすぐ連絡しよう。</p>
+                    <img src="{{ asset('image/lp_ad_5.JPG') }}">
                     <br>
                     <br>
                     <h3>いつアプリ規制されるか分からない<br>サービス停止前に入っていつでも戻れるようにしよう</h3>
                     <p>これだけの裏サービス。いつ規制されてアプリストアから消されるか分かりません。<br>ただ、<span class="red">一度インストールしてるといつでも戻ってこれる</span>のでまずはインストールだけでもオススメです。</p>
                     <div class="center">
-                        <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
+                        <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_640x200_syogekinoshiyo01_ss50_main.gif" class="wide"></a>
+                    <img src="{{ asset('image/lp_ad_5.JPG') }}">
+                    <p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>
                     <br>
                 </div>
             </div>
