@@ -30,8 +30,3 @@ Route::get('cccheck', function () {
     // return view('fb.noMatchRanking'); //獲得LP(3)
     // return view('fb.match'); //獲得LP(1)
 });
-
-// LP確認用 - sub
-Route::get('cccheck2', function () {
-    return view('fb.mm'); //獲得LP(4)
-});
