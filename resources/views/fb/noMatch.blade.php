@@ -15,7 +15,8 @@
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>『裏垢男子』必見!!!<br>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
+                <h1><span>『裏垢男子』必見!!!</span></h1>
+                <h1><span>出会いを目的とした<br>『裏掲示板』が今熱い！</span></h1>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank"><img src="{{ asset('image/lp_ad_1.JPG') }}"></a>
                 <h1><span>某有名アダルト掲示板のアプリ版</span></h1>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏掲示板はコチラ <i class="fas fa-external-link-alt"></i></a>
@@ -57,8 +58,11 @@
                     <div class="center">
                         <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
                     </div>
-                    <img src="{{ asset('image/lp_ad_5.JPG') }}">
-                    <p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>
+                    <div class="line2"></div>
+                    <div class="center">
+                        <img src="{{ asset('image/lp_ad_6.JPG') }}">
+                        <p>いいね・フォロワー獲得の為のオナニー投稿も多数。</p>
+                    </div>
                     <br>
                 </div>
             </div>

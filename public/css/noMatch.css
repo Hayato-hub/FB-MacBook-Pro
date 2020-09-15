@@ -149,10 +149,15 @@ footer p {
 
 .center {
   text-align: center;
+  margin: 0 auto;
 }
 
 .body-main-3 .red {
   color: red;
   font-weight: bold;
   border-bottom: 2px solid red;
+}
+
+.line2 {
+    border-bottom: 2px solid grey;
 }
